@@ -20,7 +20,7 @@ import java.util.Set;
 public class Principal_v0 {
 
 	public final static Path path = Paths			
-			.get("C:/Users/camil/OneDrive/Documents/Faculdade/Sistemas Distribuidos/lab1-main/src/fortune-br.txt");
+			.get("src\\fortune-br.txt");
 	private int NUM_FORTUNES = 0;
 
 	public class FileReader {
